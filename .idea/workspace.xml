@@ -28,7 +28,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="17" selection-start="1899" selection-end="1899" vertical-scroll-proportion="0.49047893">
+            <state line="48" column="14" selection-start="1880" selection-end="1880" vertical-scroll-proportion="0.47085977">
               <folding />
             </state>
           </provider>
@@ -66,7 +66,7 @@
       <file leaf-file-name="clock.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javascripts/clock.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="67" selection-start="551" selection-end="551" vertical-scroll-proportion="0.0">
+            <state line="0" column="11" selection-start="4" selection-end="11" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -303,13 +303,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/javascripts/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="61" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascripts/libs/jq.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9403" column="13" selection-start="252880" selection-end="252880" vertical-scroll-proportion="0.0">
@@ -326,16 +319,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/javascripts/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="61" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/javascripts/clock.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="67" selection-start="551" selection-end="551" vertical-scroll-proportion="0.0">
+        <state line="0" column="11" selection-start="4" selection-end="11" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="17" selection-start="1899" selection-end="1899" vertical-scroll-proportion="0.49047893">
+        <state line="48" column="14" selection-start="1880" selection-end="1880" vertical-scroll-proportion="0.47085977">
           <folding />
         </state>
       </provider>

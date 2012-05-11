@@ -1,4 +1,4 @@
-(function(){
+var d3Clock = function(){
     var width = 600, height = 600;
 
 
@@ -234,4 +234,4 @@
      window.requestAnimationFrame(NativeAnimation);
      */
 
-})();
+};
