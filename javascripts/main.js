@@ -1,3 +1,5 @@
+$(document).ready(function(){
+
 (function(){
     var width = 600, height = 600;
 
@@ -235,3 +237,5 @@
      */
 
 })();
+
+});
