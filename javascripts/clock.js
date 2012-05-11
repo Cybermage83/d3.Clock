@@ -1,6 +1,6 @@
 (function(){
-    var width = 600, height = 600,//for future use vars
-        padding = 20, rInner = Math.min(w, h) / 1.8, rOutter = Math.max(w, h) / 1.8;
+    var width = 600, height = 600;
+
 
     //////////
     //default data for acs angles start
