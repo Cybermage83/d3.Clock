@@ -28,7 +28,7 @@
         month   = newDate.getMonth()+1;
 
     ///////////////////////////////
-    //Setting up a basic Text Clock and setting main Group Elements
+    //Setting up a basic Text Clock and setting main Group Eled3ments
     ///////////////////////////////
     var watch = clockObj.append('g').attr('transform','translate('+width/2.2+',0)').attr('class','clock').style('font-size','26px').style('fill','rgba(255,255,255,.8)'),
         circlesG = clockObj.append('g').attr('class','circlesG').attr('transform','translate('+width/2 +','+height/2+')'),
