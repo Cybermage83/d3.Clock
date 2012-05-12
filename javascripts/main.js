@@ -172,9 +172,9 @@ $(document).ready(function(){
 
         watchS.transition().duration(500).style('fill','hsl('+random+','+colorSec(seconds)+'%,'+colorSec(seconds)+'%)').text(seconds+' -');
         watchM.transition().text(minutesL+':');
-        watchH.text(hours+':');
-        watchD.text(days+' / ');
-        watchMt.text(' '+month);
+        watchH.transition().text(hours+':');
+        watchD.transition().text(days+' / ');
+        watchMt.transition().text(' '+month);
 
         return seconds;
     }
