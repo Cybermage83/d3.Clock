@@ -171,7 +171,7 @@ $(document).ready(function(){
         masterClock[0].months  = monthScale(month);
 
         watchS.transition().duration(500).style('fill','hsl('+random+','+colorSec(seconds)+'%,'+colorSec(seconds)+'%)').text(seconds+' -');
-        watchM.text(minutesL+':');
+        watchM.transition().text(minutesL+':');
         watchH.text(hours+':');
         watchD.text(days+' / ');
         watchMt.text(' '+month);
